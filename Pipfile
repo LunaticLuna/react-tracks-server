@@ -10,6 +10,8 @@ django-cors-headers = "*"
 django-graphql-jwt = "*"
 gunicorn = "*"
 whitenoise = "*"
+dj-database-url = "*"
+psycopg2-binary = "*"
 
 [dev-packages]
 autopep8 = "*"
